@@ -1,0 +1,13 @@
+// Settings file for Tracker.exe
+// Format should not be modified
+//******************************
+//Ground station latitude (deg)
+51.457256
+//Ground station longitude (deg)
+-2.602346
+//How many (integer) passes should be predicted?
+5
+//Timestep in integer seconds?
+10
+//Minimum elevation to predict (deg)?
+-1
